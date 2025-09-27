@@ -1,5 +1,5 @@
 # app.py
-# This is a 
+# This is 
 def add(a, b):
     return a + b
 
